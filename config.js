@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://blog.roy-martin.com',
+        url: 'http://thoughts.roy-martin.com',
         mail: {},
         database: {
             client: 'pg',
