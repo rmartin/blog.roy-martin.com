@@ -66,7 +66,7 @@
         "xml": "0.0.12",
         "aws-sdk": "2.0.9",
         "pg": "latest",
-        "when": "3.2.3",
+        "when": "3.2.3"
     },
     "optionalDependencies": {
         "mysql": "2.1.1",
