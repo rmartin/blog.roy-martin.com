@@ -923,6 +923,10 @@ body.nav-opened .nav {
     word-wrap: break-word;
 }
 
+.post #livefyre-comments {
+  word-wrap: normal;
+}
+
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
 .post:after {
