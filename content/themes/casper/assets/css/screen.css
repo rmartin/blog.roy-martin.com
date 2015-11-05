@@ -923,6 +923,10 @@ body.nav-opened .nav {
     word-wrap: break-word;
 }
 
+.post img{
+  max-width: 100%;
+}
+
 .post #livefyre-comments {
   word-wrap: normal;
 }
