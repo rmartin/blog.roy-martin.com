@@ -128,6 +128,7 @@ function getStructuredData(metaData) {
         'article:modified_time': metaData.modifiedDate,
         'article:tag': metaData.tags,
         'twitter:card': metaData.card,
+        'twitter:site': '@roy_martin',
         'twitter:title': metaData.metaTitle,
         'twitter:description': metaData.metaDescription,
         'twitter:url': metaData.url,
