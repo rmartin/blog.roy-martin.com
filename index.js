@@ -1,6 +1,3 @@
-// New relic monitoring
-newrelic = require('newrelic');
-
 // # Ghost Startup
 // Orchestrates the startup of Ghost when run from command line.
 var express,
@@ -9,7 +6,6 @@ var express,
     errors;
 
 // Make sure dependencies are installed and file system permissions are correct.
-
 require('./core/server/utils/startup-check').check();
 
 // Proceed with startup
